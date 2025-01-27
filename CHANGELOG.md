@@ -7,4 +7,4 @@
   - [x] Apartado de noticias y comentarios
   - [x] API REST para alta y autenticacion de usuarios.
   - [X] API REST para alta de noticias.
-  - [X] API REST para comentarios y filtros de noticias.
+  - [X] API REST para comentarios y filtros de noticias. 
