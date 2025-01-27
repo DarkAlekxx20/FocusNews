@@ -6,4 +6,4 @@
 Aplicacion de administracion y gestion noticias y comentarios. 
 
 ## 🛠️ **Características**
-- 🚀 Potenciar una mejor forma de dar medios de noticias a los usuarios y poder realizar debates dentro del mismo portal.
+- 🚀 Potenciar una mejor forma de dar medios de noticias a los usuarios y poder realizar debates dentro del mismo portal. 
